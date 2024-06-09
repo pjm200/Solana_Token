@@ -1,0 +1,21 @@
+{
+    "name": "Macfie Test Token",
+    "symbol": "MACTEST",
+    "description": "A test token we can use as the basis of our token. We can change logo, initial number of coins, the name and token symbol",
+    "image": "https://github.com/pjm200/Solana_Token/blob/main/logo1.png",
+    "attributes": [
+        {
+            "trait_type": "Founder Token",
+            "value": "Yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/pjm200/Solana_Token/blob/main/logo2.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
